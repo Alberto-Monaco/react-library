@@ -16,6 +16,11 @@ nav {
     a {
         margin-right: 1rem;
         color: white;
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
     }
 }
 
